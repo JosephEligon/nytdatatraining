@@ -1,0 +1,53 @@
+@font-face { font-family: Chalk; src: url('Chalk.ttf'); } 
+
+body{
+	position: relative;
+	top: 100px;
+	text-align: center;
+	background: url(http://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/School-Clipart/Green_School_Board_Background.png?m=1439930297);
+}
+
+h1{
+	text-align: center;
+	color: white;
+	width: auto;
+	font-family: Chalk, serif;
+	font-size: 42px;
+	margin-bottom: 10px;
+	margin: 0 auto;
+}
+.inptbx{
+	border-color: green;
+	border-radius: 5px;
+	margin-top: 10px;
+	width: 15%;
+	min-width: 175px;
+	font-size: 16px;
+	text-align: center;
+}
+
+button{
+	border-color: green;
+	font-size: 14px;
+	margin-top: 7.5px;
+	border: none;
+	border-radius: 10px;
+	color: black;
+	background-color: #555555;
+}
+
+#btn1:active {
+    -webkit-transform:scale(.95); /* Safari and Chrome */
+    -moz-transform:scale(.95); /* Firefox */
+    -ms-transform:scale(.95); /* IE 9 */
+    -o-transform:scale(.95); /* Opera */
+    transform:scale(.95);
+    background-color: #3B653D;
+}
+
+#result{
+	color: white;
+	margin-top: 5px;
+	font-family: Chalk, serif;
+	font-size: 24px;
+}
