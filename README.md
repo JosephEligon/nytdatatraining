@@ -1,4 +1,4 @@
-# MAdlib
+# Madlib
 # grades
 # grades
 # nytdatatraining
